@@ -1,0 +1,10 @@
+import time
+
+horas = time.strftime('%H')
+minutos = time.strftime('%M')
+
+if int(horas) >= 19:
+    print("Es hora de ir a descanzar")
+
+else:
+    print("todavia faltan {} horas y {} minutos para salir".format(18- int/horas, 59-int/minutos))
