@@ -1,0 +1,2 @@
+estoy creando mi primer archivo desde python
+estoy escribiendo mas.
