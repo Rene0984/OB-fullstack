@@ -1,0 +1,50 @@
+/* Estilos para Colores*/
+.colores {
+    color: orangered;
+}
+
+.color-hexadecimal {
+    color: #BCE784;
+}
+
+.color-rgb {
+    color: rgb(53, 226, 68);
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0.85
+    );
+}
+
+/*Fondos*/
+.fondo {
+    /*background-color: cornflowerblue;*/
+    background-image: url("https://cdn.wallpapersafari.com/39/82/syv1Rb.jpg");
+    background-position: center center;
+}
+
+.fondo-interno {
+    /*background-color: cornflowerblue;*/
+    background-image: url(/04-intro-css/imagenes/fondo.jpg);
+    background-position: center center;
+}
+
+.ancho {
+    background-color: #BCE784;
+    width: 100px;
+}
+
+.alto {
+    background-color: aquamarine;
+    height: 200px;
+    
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /*border-top: none;*/
+    padding: 10px 20px; /* 30px 40px;*/
+    margin: 10px 20px;
+}
